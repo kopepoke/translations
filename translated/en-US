@@ -1,0 +1,19 @@
+{
+  "Hola": "Hola",
+  "Demana": "Pide ya",
+  "home": "Inicio",
+  "shops": "Tiendas",
+  "menu": "Carta",
+  "about-us": "Nosotros",
+  "contact": "Contacto",
+  "home.title.first": "En kopepoke",
+  "home.title.second": "Hacemos poke bolws",
+  "home.title.third": "jodidamente buenos",
+  "order.where.pickup": "Recojida en tienda",
+  "order.where.delivery": "Envio en casa",
+  "postalcode": "Código postal",
+  "deliver.to": "Entregar en",
+  "postalcode.invalid": "Código postal invalido",
+  "postalcode.unavailable": "Aún no repartimos en este código postal. Disculpad",
+  "privacy.title": "Privacidad"
+}
